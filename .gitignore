@@ -1,0 +1,22 @@
+# Ignore virtual environment, folders and files
+chatgptreact/
+node_modules/
+/backend/uploads/*
+build/
+/backend/app/db/files.db
+/docs_test/
+
+# Ignore Python bytecode files
+*.pyc
+*.egg-info/
+
+# Ignore IDE config
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore dvc and env files
+*.dvc
+*.env
